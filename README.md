@@ -1,6 +1,6 @@
 <div align="center">
 
-![Jiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwin_Jojo&show_icons=true&theme=radical)  
+![Anwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwin_Jojo&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwin_Jojo&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Anwin_Jojo&theme=dark)
 
