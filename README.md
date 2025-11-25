@@ -17,3 +17,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guess-watt/guess-watt/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/guess-watt/guess-watt/output/github-contribution-grid-snake.svg" />
 </picture>
+
+![Snake animation](https://raw.githubusercontent.com/guess-watt/guess-watt/output/github-contribution-grid-snake.svg)
+
