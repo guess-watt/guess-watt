@@ -2,30 +2,46 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # runs every 12 hours
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
   push:
     branches:
       - main
+
+# Give permission to write files/branches
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node (needed by snk)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: "guess-watt"
+          # use the repo owner (recommended) or hardcode "guess-watt"
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: List dist for debug
+        run: ls -la dist || echo "dist not found"
+
+      - name: Publish to output branch
+        # use latest v4 which supports permissions & target_branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
