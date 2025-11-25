@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Anwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=guess-watt&show_icons=true&theme=radical)  
@@ -8,3 +9,5 @@
 ![GitHub Followers](https://img.shields.io/github/followers/guess-watt?style=social)
 
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/guess-watt/guess-watt/output/github-contribution-grid-snake.svg)
