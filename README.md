@@ -1,4 +1,4 @@
-<!--
+
 
 <div align="center">
 
@@ -11,6 +11,8 @@
 
 </div>
 
+
+<!--
 ![Snake animation](https://raw.githubusercontent.com/guess-watt/guess-watt/output/github-contribution-grid-snake.svg)
 
 <picture>
