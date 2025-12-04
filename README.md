@@ -75,7 +75,9 @@
 <!-- 🔗 Connect with Me -->
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="www.linkedin.com/in/
+anwin-jojo-aa78b0276
+"_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
