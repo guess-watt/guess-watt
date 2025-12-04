@@ -44,7 +44,7 @@
 
 ---
 
-<!-- 📊 Skill Level Bars -->
+<!-- 📊 Skill Level Bars 
 <h3 align="center">📊 Skill Levels</h3>
 <p align="center">
   Java      <br>
@@ -61,7 +61,7 @@
 </p>
 
 ---
-
+-->
 <!-- 🌱 Currently Learning -->
 <h3 align="center">🌱 Currently Learning</h3>
 <p align="center">
