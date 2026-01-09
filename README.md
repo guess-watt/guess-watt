@@ -1,3 +1,34 @@
+# Hi there, I'm Anwin! 👋
+
+### 🚀 About Me
+I'm a passionate developer currently dive-deep into **Django** and exploring the fascinating world of **Machine Learning**. I love building applications that solve real-world problems and I've been actively contributing to open-source projects for the past few months.
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
+
+### 📊 GitHub Stats & Contributions
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
+
+> [!TIP]
+> **I've been on a roll!** Check out my contribution bar below for the past 3 months of activity. 🚀
+
+### 📫 How to reach me
+- 📧 Email: [anwinasprogramer@gmail.com](mailto:anwinasprogramer@gmail.com)
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+---
+
 <!--
 
 <div align="center">
@@ -24,25 +55,9 @@
 ![Snake animation](https://raw.githubusercontent.com/guess-watt/guess-watt/output/github-contribution-grid-snake.svg)
 
 -->
-<!-- 👋 Welcome Banner -->
-<h1 align="center">Hey there 👋, I'm Anwin!</h1>
-<p align="center">
-  <em>Java & Python Developer | Open Source Explorer | Tech Hobbyist</em>
-</p>
 
----
 
-<!-- 🌟 Animated Skills -->
-<h3 align="center">💻 My Skills</h3>
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
 
----
 
 <!-- 📊 Skill Level Bars 
 <h3 align="center">📊 Skill Levels</h3>
@@ -62,43 +77,30 @@
 
 ---
 -->
-<!-- 🌱 Currently Learning -->
+
+
+
+
+
+<!--
+<h1 align="center">Hey there 👋, I'm Anwin!</h1>
+<p align="center">
+  <em>Java & Python Developer | Open Source Explorer | Tech Hobbyist</em>
+</p>
+
+<h3 align="center">💻 My Skills</h3>
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
 <h3 align="center">🌱 Currently Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine Learning-F7DF1E?style=for-the-badge&logo=TensorFlow&logoColor=black" />
-</p>
+  <img src="https://img.shields.io
 
----
-
-<!-- 🔗 Connect with Me -->
-<h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anwin-jojo-aa78b0276">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-    
-  </a>
-  <a href="mailto:anwinasprogramer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- 🎯 Fun Quote -->
-<p align="center">
-  <em>"Code like a poet, debug like a detective."</em>
-</p>
-
----
-
-<!-- ⚡ GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guess-watt&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guess-watt&theme=dracula" alt="GitHub Streak" />
-</p>
 
