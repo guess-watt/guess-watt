@@ -5,11 +5,6 @@
 **Backend Developer • Django Enthusiast • Machine Learning Explorer**
 Building scalable apps • Solving real-world problems • Open-source contributor
 
-![Profile Views](https://komarev.com/ghpvc/?username=guess-watt\&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/guess-watt?style=social)
-
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -22,6 +17,8 @@ Building scalable apps • Solving real-world problems • Open-source contribut
 
 ---
 
+</div>
+
 ## 🛠 Tech Stack
 
 <div align="left">
@@ -32,6 +29,7 @@ Building scalable apps • Solving real-world problems • Open-source contribut
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
 
 </div>
 
@@ -45,56 +43,11 @@ Building scalable apps • Solving real-world problems • Open-source contribut
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=guess-watt\&theme=highcontrast\&hide_border=true)
 
-### 📈 Overall Contribution Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guess-watt\&show_icons=true\&theme=highcontrast\&hide_border=true)
-
 ### 🟢 Contribution Graph (Last Year)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=guess-watt\&theme=github-green-compact)
 
-</div>
 
----
-
-## 💡 Top Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guess-watt\&layout=compact\&theme=highcontrast\&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/guess-watt/guess-watt/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-| Project       | Description                    | Tech Stack               |
-| ------------- | ------------------------------ | ------------------------ |
-| **Project A** | Short description of project A | Django, Python, HTML/CSS |
-| **Project B** | Short description of project B | Java, Spring Boot        |
-| **Project C** | Short description of project C | Python, ML/AI            |
-
----
-
-## 🧠 Currently Learning
-
-* Machine Learning & Model Deployment
-* Advanced Django & REST APIs
-* System Design & Backend Scalability
-* Clean Architecture & Best Practices
-
----
 
 ## 📫 Contact Me
 
