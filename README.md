@@ -1,23 +1,25 @@
-#  Hi, I'm Anwin Jojo
+# Hi, I'm Anwin Jojo 👋
 
 <div align="center">
 
-**Backend Developer • Django Enthusiast • Machine Learning Explorer**
-Building scalable apps • Solving real-world problems • Open-source contributor
+**Backend Developer • Django Enthusiast • Machine Learning Explorer**  
+Student Developer • Building scalable apps • Open-source contributor
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Focused on **Django**, **Python**, and **Java**
-* 🤖 Actively learning **Machine Learning** 
-* 🌍 Contributing to **open-source projects** consistently
-* 🎯 Goal: Build impactful, scalable, production-ready software
-* 📈 Passionate about **clean efficient code, performance, and problem solving**
+🎓 I'm a **Computer Applications student** passionate about building real-world software solutions  
+💻 Skilled in **Django**, **Python**, and **Java**, with a strong focus on backend development  
+🤖 Actively learning **Machine Learning** to combine AI with practical applications  
+🌍 Regularly contributing to **open-source projects** and improving through collaboration  
+🎯 Career goal: Become a **skilled software engineer** building scalable, production-ready systems  
+📈 Passionate about **clean code, performance optimization, and problem-solving**
 
 ---
 
 </div>
+
 
 ## 🛠 Tech Stack
 
