@@ -9,12 +9,12 @@ Student Developer • Building scalable apps • Open-source contributor
 
 ## 🚀 About Me
 
-🎓 I'm a **Computer Applications student** passionate about building real-world software solutions  
-💻 Skilled in **Django**, **Python**, and **Java**, with a strong focus on backend development  
-🤖 Actively learning **Machine Learning** to combine AI with practical applications  
-🌍 Regularly contributing to **open-source projects** and improving through collaboration  
-🎯 Career goal: Become a **skilled software engineer** building scalable, production-ready systems  
-📈 Passionate about **clean code, performance optimization, and problem-solving**
+- 🎓 Computer Applications Student  
+- 💻 Backend Developer — Django, Python, Java  
+- 🤖 Exploring Machine Learning & AI  
+- 🌍 Open-Source Contributor  
+- 🎯 Aspiring Scalable Systems Engineer  
+- 📈 Focused on Clean Code & Performance
 
 ---
 
