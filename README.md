@@ -58,7 +58,7 @@ Student Developer • Building scalable apps • Open-source contributor
 ## 📫 Contact Me
 
 * 📧 Email: **[anwinasprogramer@gmail.com](mailto:anwinasprogramer@gmail.com)**
-* 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME  
+* 💼 LinkedIn: https://www.linkedin.com/in/anwinjojo  
 * 🧑‍💻 GitHub: https://github.com/guess-watt  
 
 ---
