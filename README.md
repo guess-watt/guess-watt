@@ -118,18 +118,6 @@ with emphasis on structured backend development and agile practices.
 
 ---
 
-# 📈 Coding Activity
-
-<div align="center">
-
-### 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=guess-watt&theme=highcontrast&hide_border=true" />
-
-</div>
-
----
-
 ## 🟢 My Last 100 Days
 
 <div align="center">
