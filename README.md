@@ -11,9 +11,7 @@ I build backend systems with Python, work with databases and REST APIs, and expl
   <a href="https://github.com/guess-watt">
     <img src="https://img.shields.io/github/stars/guess-watt?affiliations=OWNER&style=flat-square&label=Stars" />
   </a>
-  <a href="https://leetcode.com/guess-watt/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=flat-square&logo=leetcode" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=guess-watt&style=flat-square&label=Profile%20Views" />
 </p>
 
 ---
@@ -41,7 +39,7 @@ A structured platform for learning chess theory through articles and interactive
 
 ### 🤖 Machine Learning Projects
 
-Computer vision and deep learning experiments using real-world datasets and modern neural network architectures.
+Computer vision and deep learning experiments using real-world datasets and model experimentation.
 
 `Python` `TensorFlow` `MobileNet` `Computer Vision`
 
@@ -53,19 +51,9 @@ A backend-focused healthcare management project developed using agile practices.
 
 ### ♜ FORTRESS
 
-A chess analysis and anomaly-detection system that uses chess-engine analysis and machine learning to identify statistically unusual gameplay patterns.
+A chess analysis and anomaly-detection system using chess-engine analysis and machine learning to identify statistically unusual gameplay patterns.
 
 `Python` `Django` `python-chess` `Stockfish` `Machine Learning`
-
----
-
-## Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/guess-watt/">
-    <img src="https://leetcard.jacoblin.cool/guess-watt?theme=dark&font=baloo&ext=heatmap" />
-  </a>
-</p>
 
 ---
 
@@ -77,7 +65,7 @@ A chess analysis and anomaly-detection system that uses chess-engine analysis an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guess-watt&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guess-watt&theme=red&hide_border=true" />
 </p>
 
 <p align="center">
