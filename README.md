@@ -69,7 +69,7 @@ A chess analysis and anomaly-detection system using chess-engine analysis and ma
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guess-watt&theme=github-green&hide_border=true&area=true" />
+  <img src="./assets/contributions-30-days.svg" alt="Last 30 days of GitHub contributions" />
 </p>
 
 ---
