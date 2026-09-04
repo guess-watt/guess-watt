@@ -27,7 +27,7 @@
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="13">
-        99 contributions
+        97 contributions
     </text>
 
     <line
@@ -40,16 +40,6 @@
     
         <rect
             x="55.00"
-            y="127.50"
-            width="24.50"
-            height="77.50"
-            rx="3"
-            fill="#e53935">
-            <title>2026-08-05: 4 contributions</title>
-        </rect>
-        
-        <rect
-            x="82.50"
             y="108.12"
             width="24.50"
             height="96.88"
@@ -59,7 +49,7 @@
         </rect>
         
         <rect
-            x="110.00"
+            x="82.50"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -69,7 +59,7 @@
         </rect>
         
         <rect
-            x="137.50"
+            x="110.00"
             y="50.00"
             width="24.50"
             height="155.00"
@@ -79,7 +69,7 @@
         </rect>
         
         <rect
-            x="165.00"
+            x="137.50"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -89,7 +79,7 @@
         </rect>
         
         <rect
-            x="192.50"
+            x="165.00"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -99,7 +89,7 @@
         </rect>
         
         <rect
-            x="220.00"
+            x="192.50"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -109,7 +99,7 @@
         </rect>
         
         <rect
-            x="247.50"
+            x="220.00"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -119,7 +109,7 @@
         </rect>
         
         <rect
-            x="275.00"
+            x="247.50"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -129,7 +119,7 @@
         </rect>
         
         <rect
-            x="302.50"
+            x="275.00"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -139,7 +129,7 @@
         </rect>
         
         <rect
-            x="330.00"
+            x="302.50"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -149,7 +139,7 @@
         </rect>
         
         <rect
-            x="357.50"
+            x="330.00"
             y="88.75"
             width="24.50"
             height="116.25"
@@ -159,7 +149,7 @@
         </rect>
         
         <rect
-            x="385.00"
+            x="357.50"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -169,7 +159,7 @@
         </rect>
         
         <rect
-            x="412.50"
+            x="385.00"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -179,7 +169,7 @@
         </rect>
         
         <rect
-            x="440.00"
+            x="412.50"
             y="108.12"
             width="24.50"
             height="96.88"
@@ -189,7 +179,7 @@
         </rect>
         
         <rect
-            x="467.50"
+            x="440.00"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -199,7 +189,7 @@
         </rect>
         
         <rect
-            x="495.00"
+            x="467.50"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -209,7 +199,7 @@
         </rect>
         
         <rect
-            x="522.50"
+            x="495.00"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -219,7 +209,7 @@
         </rect>
         
         <rect
-            x="550.00"
+            x="522.50"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -229,7 +219,7 @@
         </rect>
         
         <rect
-            x="577.50"
+            x="550.00"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -239,7 +229,7 @@
         </rect>
         
         <rect
-            x="605.00"
+            x="577.50"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -249,7 +239,7 @@
         </rect>
         
         <rect
-            x="632.50"
+            x="605.00"
             y="127.50"
             width="24.50"
             height="77.50"
@@ -259,7 +249,7 @@
         </rect>
         
         <rect
-            x="660.00"
+            x="632.50"
             y="69.38"
             width="24.50"
             height="135.62"
@@ -269,7 +259,7 @@
         </rect>
         
         <rect
-            x="687.50"
+            x="660.00"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -279,7 +269,7 @@
         </rect>
         
         <rect
-            x="715.00"
+            x="687.50"
             y="185.62"
             width="24.50"
             height="19.38"
@@ -289,7 +279,7 @@
         </rect>
         
         <rect
-            x="742.50"
+            x="715.00"
             y="166.25"
             width="24.50"
             height="38.75"
@@ -299,7 +289,7 @@
         </rect>
         
         <rect
-            x="770.00"
+            x="742.50"
             y="185.62"
             width="24.50"
             height="19.38"
@@ -309,7 +299,7 @@
         </rect>
         
         <rect
-            x="797.50"
+            x="770.00"
             y="146.88"
             width="24.50"
             height="58.12"
@@ -319,7 +309,7 @@
         </rect>
         
         <rect
-            x="825.00"
+            x="797.50"
             y="108.12"
             width="24.50"
             height="96.88"
@@ -329,13 +319,23 @@
         </rect>
         
         <rect
-            x="852.50"
+            x="825.00"
             y="69.38"
             width="24.50"
             height="135.62"
             rx="3"
             fill="#e53935">
             <title>2026-09-03: 7 contributions</title>
+        </rect>
+        
+        <rect
+            x="852.50"
+            y="166.25"
+            width="24.50"
+            height="38.75"
+            rx="3"
+            fill="#e53935">
+            <title>2026-09-04: 2 contributions</title>
         </rect>
         
 
@@ -345,7 +345,7 @@
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="12">
-        Aug 05
+        Aug 06
     </text>
 
     <text
@@ -355,7 +355,7 @@
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="12">
-        Sep 03
+        Sep 04
     </text>
 
 </svg>
