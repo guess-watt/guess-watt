@@ -1,71 +1,89 @@
 # Anwin Jojo
 
-**Backend Developer · Python Developer · ML Explorer**
+**Backend Developer · Systems & Rust Explorer · ML Enthusiast**
 
-I build backend systems with Python, work with databases and REST APIs, and explore machine learning and computer vision. I also spend a lot of time solving Data Structures & Algorithms problems and understanding how software systems work internally.
+I build reliable backend systems with Python and Rust, architect databases and REST APIs, and explore machine learning and computer vision. I enjoy deep-diving into Data Structures & Algorithms, memory safety, and understanding how software systems work under the hood.
 
 <p align="center">
   <a href="https://github.com/guess-watt">
-    <img src="https://img.shields.io/github/followers/guess-watt?style=flat-square&label=Followers" />
+    <img src="https://img.shields.io/github/followers/guess-watt?style=flat-square&label=Followers&color=181717" />
   </a>
   <a href="https://github.com/guess-watt">
-    <img src="https://img.shields.io/github/stars/guess-watt?affiliations=OWNER&style=flat-square&label=Stars" />
+    <img src="https://img.shields.io/github/stars/guess-watt?affiliations=OWNER&style=flat-square&label=Stars&color=181717" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=guess-watt&style=flat-square&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=guess-watt&style=flat-square&label=Profile%20Views&color=181717" />
 </p>
 
 ---
 
-## About
+## 🛠️ Tech Stack & Skills
 
-| Area                 | Technologies                                   |
-| -------------------- | ---------------------------------------------- |
-| **Languages**        | Python · Java · C · JavaScript                 |
-| **Backend**          | Django · Flask · REST APIs                     |
-| **Databases**        | MySQL · PostgreSQL · MongoDB · Supabase        |
-| **Machine Learning** | TensorFlow · Scikit-learn · Computer Vision    |
-| **Tools**            | Git · GitHub · Linux · Docker · VS Code        |
-| **Interests**        | Backend Engineering · DSA · ML · System Design |
+| Area                     | Technologies & Tools                                                  |
+| ------------------------ | --------------------------------------------------------------------- |
+| **Languages**            | Python · Rust · Java · C · JavaScript                                 |
+| **Backend & Systems**    | Django · Flask · Rust CLI Tooling · REST APIs                         |
+| **Databases**            | PostgreSQL · MySQL · MongoDB · Supabase                               |
+| **Machine Learning**     | TensorFlow · Scikit-learn · Computer Vision · OpenCV                  |
+| **Tools & Environments** | Git · GitHub · Linux · Docker · Cargo · VS Code                       |
+| **Core Interests**       | Backend Engineering · Systems Programming · DSA · ML · System Design |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### ♟️ Chess Theory Platform
+### 🧹 [CleanSweep](https://github.com/guess-watt/CleanSweep)
+A fast, safe Windows command-line storage analyzer written in **Rust**. Scans directories recursively, identifies space-consuming files, and detects exact duplicates using streaming **SHA-256** content verification with zero runtime memory bloat.
 
-A structured platform for learning chess theory through articles and interactive content.
+`Rust` `Systems Programming` `CLI` `SHA-256` `File Systems`
 
-`Django` `Python` `JavaScript` `Database`
-
-### 🤖 Machine Learning Projects
-
-Computer vision and deep learning experiments using real-world datasets and model experimentation.
-
-`Python` `TensorFlow` `MobileNet` `Computer Vision`
-
-### 🏥 MediTrack
-
-A backend-focused healthcare management project developed using agile practices.
-
-`Django` `Python` `Database` `Agile`
+---
 
 ### ♜ FORTRESS
-
-A chess analysis and anomaly-detection system using chess-engine analysis and machine learning to identify statistically unusual gameplay patterns.
+A chess analysis and anomaly-detection system utilizing chess-engine evaluation and machine learning to detect statistically unusual gameplay patterns.
 
 `Python` `Django` `python-chess` `Stockfish` `Machine Learning`
 
 ---
 
-## GitHub Activity
+### ♟️ Chess Theory Platform
+A structured platform for mastering chess theory through rich explanatory articles and interactive analysis.
+
+`Django` `Python` `JavaScript` `Database`
+
+---
+
+### 🤖 Machine Learning Experiments
+Computer vision and deep learning experiments on real-world datasets focusing on model architecture, transfer learning, and image classification.
+
+`Python` `TensorFlow` `MobileNet` `Computer Vision`
+
+---
+
+### 🏥 MediTrack
+A backend-focused healthcare management platform engineered with agile practices and relational database schemas.
+
+`Django` `Python` `PostgreSQL` `Agile`
+
+---
+
+## 📈 GitHub Activity & Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=guess-watt&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guess-watt&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guess-watt&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guess-watt&theme=red&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guess-watt&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -75,33 +93,31 @@ A chess analysis and anomaly-detection system using chess-engine analysis and ma
 ---
 
 <details>
-<summary><b>Current Focus</b></summary>
+<summary><b>🔭 Current Focus & Learning Journey</b></summary>
 
 <br>
 
-* Advanced Data Structures & Algorithms
-* Backend Architecture
-* System Design
-* Machine Learning
-* Computer Vision
-* Database Optimization
+* **Systems Programming in Rust**: Memory safety, zero-cost abstractions, CLI architecture, and low-level I/O.
+* **Backend Architecture & Scalability**: Designing resilient APIs, microservices, and database indexing.
+* **Advanced DSA**: Honing algorithmic problem solving and time-complexity optimization.
+* **Applied Machine Learning**: Practical computer vision pipelines and inference optimization.
 
 </details>
 
 <details>
-<summary><b>More About Me</b></summary>
+<summary><b>💡 More About Me</b></summary>
 
 <br>
 
-I enjoy turning ideas into working software, exploring how systems work internally, and continuously improving my problem-solving skills.
+I love transforming complex concepts into clean, maintainable software. Whether it's crafting a high-speed systems utility in Rust, optimizing a Django REST API, or training a vision model, I take pride in understanding how things operate under the hood.
 
-My current interests sit at the intersection of **backend engineering, algorithms, machine learning, and scalable software systems**.
+My work sits at the intersection of **systems engineering, backend infrastructure, algorithms, and applied machine learning**.
 
 </details>
 
 ---
 
-## Connect
+## 📬 Connect
 
 <p align="center">
   <a href="mailto:anwinasprogramer@gmail.com">
