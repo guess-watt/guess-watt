@@ -27,7 +27,7 @@
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="13">
-        84 contributions
+        78 contributions
     </text>
 
     <line
@@ -40,126 +40,116 @@
     
         <rect
             x="55.00"
-            y="50.00"
+            y="153.33"
             width="24.50"
-            height="155.00"
-            rx="3"
-            fill="#e53935">
-            <title>2026-09-21: 8 contributions</title>
-        </rect>
-        
-        <rect
-            x="82.50"
-            y="166.25"
-            width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-09-22: 2 contributions</title>
         </rect>
         
         <rect
-            x="110.00"
-            y="166.25"
+            x="82.50"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-09-23: 2 contributions</title>
         </rect>
         
         <rect
-            x="137.50"
-            y="146.88"
+            x="110.00"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-09-24: 3 contributions</title>
         </rect>
         
         <rect
-            x="165.00"
-            y="185.62"
+            x="137.50"
+            y="179.17"
             width="24.50"
-            height="19.38"
+            height="25.83"
             rx="3"
             fill="#e53935">
             <title>2026-09-25: 1 contributions</title>
         </rect>
         
         <rect
-            x="192.50"
-            y="146.88"
+            x="165.00"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-09-26: 3 contributions</title>
         </rect>
         
         <rect
-            x="220.00"
-            y="146.88"
+            x="192.50"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-09-27: 3 contributions</title>
         </rect>
         
         <rect
-            x="247.50"
-            y="166.25"
+            x="220.00"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-09-28: 2 contributions</title>
         </rect>
         
         <rect
-            x="275.00"
-            y="146.88"
+            x="247.50"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-09-29: 3 contributions</title>
         </rect>
         
         <rect
-            x="302.50"
-            y="166.25"
+            x="275.00"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-09-30: 2 contributions</title>
         </rect>
         
         <rect
-            x="330.00"
-            y="146.88"
+            x="302.50"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-10-01: 3 contributions</title>
         </rect>
         
         <rect
-            x="357.50"
-            y="166.25"
+            x="330.00"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-02: 2 contributions</title>
         </rect>
         
         <rect
-            x="385.00"
+            x="357.50"
             y="205.00"
             width="24.50"
             height="0.00"
@@ -169,173 +159,183 @@
         </rect>
         
         <rect
-            x="412.50"
-            y="127.50"
+            x="385.00"
+            y="101.67"
             width="24.50"
-            height="77.50"
+            height="103.33"
             rx="3"
             fill="#e53935">
             <title>2026-10-04: 4 contributions</title>
         </rect>
         
         <rect
-            x="440.00"
-            y="166.25"
+            x="412.50"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-05: 2 contributions</title>
         </rect>
         
         <rect
-            x="467.50"
-            y="146.88"
+            x="440.00"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-10-06: 3 contributions</title>
         </rect>
         
         <rect
-            x="495.00"
-            y="166.25"
+            x="467.50"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-07: 2 contributions</title>
         </rect>
         
         <rect
-            x="522.50"
-            y="166.25"
+            x="495.00"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-08: 2 contributions</title>
         </rect>
         
         <rect
-            x="550.00"
-            y="146.88"
+            x="522.50"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-10-09: 3 contributions</title>
         </rect>
         
         <rect
-            x="577.50"
-            y="146.88"
+            x="550.00"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-10-10: 3 contributions</title>
         </rect>
         
         <rect
-            x="605.00"
-            y="88.75"
+            x="577.50"
+            y="50.00"
             width="24.50"
-            height="116.25"
+            height="155.00"
             rx="3"
             fill="#e53935">
             <title>2026-10-11: 6 contributions</title>
         </rect>
         
         <rect
-            x="632.50"
-            y="166.25"
+            x="605.00"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-12: 2 contributions</title>
         </rect>
         
         <rect
-            x="660.00"
-            y="185.62"
+            x="632.50"
+            y="179.17"
             width="24.50"
-            height="19.38"
+            height="25.83"
             rx="3"
             fill="#e53935">
             <title>2026-10-13: 1 contributions</title>
         </rect>
         
         <rect
-            x="687.50"
-            y="185.62"
+            x="660.00"
+            y="179.17"
             width="24.50"
-            height="19.38"
+            height="25.83"
             rx="3"
             fill="#e53935">
             <title>2026-10-14: 1 contributions</title>
         </rect>
         
         <rect
-            x="715.00"
-            y="88.75"
+            x="687.50"
+            y="50.00"
             width="24.50"
-            height="116.25"
+            height="155.00"
             rx="3"
             fill="#e53935">
             <title>2026-10-15: 6 contributions</title>
         </rect>
         
         <rect
-            x="742.50"
-            y="88.75"
+            x="715.00"
+            y="50.00"
             width="24.50"
-            height="116.25"
+            height="155.00"
             rx="3"
             fill="#e53935">
             <title>2026-10-16: 6 contributions</title>
         </rect>
         
         <rect
-            x="770.00"
-            y="146.88"
+            x="742.50"
+            y="127.50"
             width="24.50"
-            height="58.12"
+            height="77.50"
             rx="3"
             fill="#e53935">
             <title>2026-10-17: 3 contributions</title>
         </rect>
         
         <rect
-            x="797.50"
-            y="166.25"
+            x="770.00"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-18: 2 contributions</title>
         </rect>
         
         <rect
-            x="825.00"
-            y="166.25"
+            x="797.50"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-19: 2 contributions</title>
         </rect>
         
         <rect
-            x="852.50"
-            y="166.25"
+            x="825.00"
+            y="153.33"
             width="24.50"
-            height="38.75"
+            height="51.67"
             rx="3"
             fill="#e53935">
             <title>2026-10-20: 2 contributions</title>
+        </rect>
+        
+        <rect
+            x="852.50"
+            y="153.33"
+            width="24.50"
+            height="51.67"
+            rx="3"
+            fill="#e53935">
+            <title>2026-10-21: 2 contributions</title>
         </rect>
         
 
@@ -345,7 +345,7 @@
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="12">
-        Sep 21
+        Sep 22
     </text>
 
     <text
@@ -355,7 +355,7 @@
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="12">
-        Oct 20
+        Oct 21
     </text>
 
 </svg>
